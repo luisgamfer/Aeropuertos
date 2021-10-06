@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1526485020 source:c:\users\luis\desktop\programacion ii\aeropuertos2\aeropuerto.cpp
+	"aeropuerto.hpp"
+	<string>
+	<iostream>
+
+1526485020 c:\users\luis\desktop\programacion ii\aeropuertos2\aeropuerto.hpp
+	<string>
+
+1526485392 source:c:\users\luis\desktop\programacion ii\aeropuertos2\aeropuertos.cpp
+	"aeropuertos.hpp"
+	<iostream>
+	<string>
+	<array>
+
+1526485022 c:\users\luis\desktop\programacion ii\aeropuertos2\aeropuertos.hpp
+	"aeropuerto.hpp"
+	<string>
+	<fstream>
+	<iostream>
+	<array>
+
+1523621818 source:c:\users\luis\desktop\programacion ii\aeropuertos2\test_aeropuertos.cpp
+	"aeropuerto.hpp"
+	"aeropuertos.hpp"
+	<iostream>
+	<cassert>
+
+1526498395 source:c:\users\luis\desktop\programacion ii\aeropuertos2\ruta.cpp
+	"ruta.hpp"
+	<string>
+	<iostream>
+
+1526486346 c:\users\luis\desktop\programacion ii\aeropuertos2\ruta.hpp
+	<string>
+
+1528148926 source:c:\users\luis\desktop\programacion ii\aeropuertos2\rutas.cpp
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1527073128 c:\users\luis\desktop\programacion ii\aeropuertos2\rutas.hpp
+	"ruta.hpp"
+	"aeropuertos.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+
+1528298224 source:c:\users\luis\desktop\programacion ii\aeropuertos2\test_rutas.cpp
+	"ruta.hpp"
+	"aeropuerto.hpp"
+	"aeropuertos.hpp"
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cassert>
+
+1528102813 source:c:\users\luis\desktop\programacion ii\aeropuertos2\main.cpp
+	"ruta.hpp"
+	"aeropuerto.hpp"
+	"aeropuertos.hpp"
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cassert>
+
+1526481420 source:c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\aeropuerto.cpp
+	"aeropuerto.hpp"
+	<string>
+	<iostream>
+
+1526481420 c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\aeropuerto.hpp
+	<string>
+
+1526481792 source:c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\aeropuertos.cpp
+	"aeropuertos.hpp"
+	<iostream>
+	<string>
+	<array>
+
+1526481422 c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\aeropuertos.hpp
+	"aeropuerto.hpp"
+	<string>
+	<fstream>
+	<iostream>
+	<array>
+
+1526494795 source:c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\ruta.cpp
+	"ruta.hpp"
+	<string>
+	<iostream>
+
+1526482746 c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\ruta.hpp
+	<string>
+
+1528145326 source:c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\rutas.cpp
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1527069528 c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\rutas.hpp
+	"ruta.hpp"
+	"aeropuertos.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+
+1528294624 source:c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\test_rutas.cpp
+	"ruta.hpp"
+	"aeropuerto.hpp"
+	"aeropuertos.hpp"
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cassert>
+
+1528146387 source:c:\users\luis\desktop\universidad\programacion ii\aeropuertos2\main.cpp
+	"ruta.hpp"
+	"aeropuerto.hpp"
+	"aeropuertos.hpp"
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cassert>
+
+1526481420 source:c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\aeropuerto.cpp
+	"aeropuerto.hpp"
+	<string>
+	<iostream>
+
+1526481420 c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\aeropuerto.hpp
+	<string>
+
+1526481792 source:c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\aeropuertos.cpp
+	"aeropuertos.hpp"
+	<iostream>
+	<string>
+	<array>
+
+1526481422 c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\aeropuertos.hpp
+	"aeropuerto.hpp"
+	<string>
+	<fstream>
+	<iostream>
+	<array>
+
+1543257014 source:c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\main.cpp
+	"ruta.hpp"
+	"aeropuerto.hpp"
+	"aeropuertos.hpp"
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cassert>
+
+1526482746 c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\ruta.hpp
+	<string>
+
+1527069528 c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\rutas.hpp
+	"ruta.hpp"
+	"aeropuertos.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+
+1526494795 source:c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\ruta.cpp
+	"ruta.hpp"
+	<string>
+	<iostream>
+
+1528145326 source:c:\users\sete_\onedrive\escritorio\proyectos a subir a github\aeropuertos2\rutas.cpp
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cstdlib>
+
